@@ -1,0 +1,13 @@
+# ninja log v5
+9	307	6678831173400395	CMakeFiles/line_editor.dir/src/Stack.cpp.obj	45e82cea43f579ed
+13	279	6678831173125834	CMakeFiles/line_editor.dir/src/FileIO.cpp.obj	4b36187d4664701a
+2	318	6678833376289758	CMakeFiles/line_editor.dir/src/main.cpp.obj	9acfd4d8ff84d29a
+1	94	6678834358233291	build.ninja	2d00465535570955
+9	456	6678833377664291	CMakeFiles/line_editor.dir/src/Parser.cpp.obj	a92f6c50e9dcab9
+3	565	6678831175974832	CMakeFiles/line_editor.dir/src/Maze.cpp.obj	9f77d0e52f3b7376
+5	296	6678833376064083	CMakeFiles/line_editor.dir/src/List.cpp.obj	54c4572e5ccbca3a
+6	298	6678834393372537	CMakeFiles/line_editor.dir/src/List.cpp.obj	54c4572e5ccbca3a
+4	310	6678834393492458	CMakeFiles/line_editor.dir/src/FileIO.cpp.obj	4b36187d4664701a
+0	352	6678834393902488	CMakeFiles/line_editor.dir/src/main.cpp.obj	9acfd4d8ff84d29a
+9	461	6678834394994668	CMakeFiles/line_editor.dir/src/Parser.cpp.obj	a92f6c50e9dcab9
+462	555	6678834395903618	line_editor.exe	6ce7082783da527a
